@@ -1,0 +1,3 @@
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+Is there a shower?
+Answer the question using a single word or phrase. <learnable> ASSISTANT: No</s>USER: Does the room appear clean? <learnable> ASSISTANT: Yes</s>USER: What color is the rag? <learnable> ASSISTANT: Blue</s>

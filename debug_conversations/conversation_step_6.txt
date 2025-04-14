@@ -1,0 +1,7 @@
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+What kind of scale is used here?
+A. potted
+B. balance
+C. virtual
+D. accuracy
+Answer with the option's letter from the given choices directly. <learnable> ASSISTANT: B</s>

@@ -1,0 +1,2 @@
+from .language_model.flashsloth import FlashSlothConfig, FlashSlothForCausalLM
+from .language_model.flashsloth_qwen import FlashslothQwen2Config, FlashslothQwen2ForCausalLM

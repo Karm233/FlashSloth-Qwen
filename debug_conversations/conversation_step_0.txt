@@ -1,0 +1,13 @@
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Write an oath for accounting and tax clients to vow to be better financially. With the help of Distinct they will become better business owners. The oath will need to address business financial growth, personal financial growth, and operating in pure excellence. <learnable> ASSISTANT: I, [Client Name], solemnly swear to uphold the following oath as an accounting and tax client of Distinct:
+
+I vow to prioritize the financial growth of my business, seeking out opportunities for expansion and taking measured risks to maximize profits. I will not be complacent with the status quo, but will strive to continuously improve and innovate in all aspects of my business.
+
+I vow to not only prioritize the financial growth of my business, but also my personal financial growth. I will make a concerted effort to reduce personal debt, increase savings, and make smart investments to secure a prosperous future for myself and my loved ones.
+
+I vow to operate my business with pure excellence, always striving for accuracy and transparency in my financial reporting. I will work with Distinct to maintain clean and accurate financial records, ensuring compliance with all applicable laws and regulations.
+
+I understand that achieving financial success takes time, effort, and dedication, and I commit to putting in the work required to achieve my goals. With the guidance of Distinct, I am confident that I can achieve financial success and become a better business owner and individual.
+
+Signed,
+
+[Client Name]</s>
